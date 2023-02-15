@@ -6,6 +6,15 @@
 
 Unable to install using Gitpod, used local environment to install and confirmed that it is installed, screenshot below:
 
+I used following commands to install and confirm.
+
+```
+msiexec.exe /i https://awscli.amazonaws.com/AWSCLIV2.msi
+
+aws --version
+
+```
+
 ![Capture](https://user-images.githubusercontent.com/124918783/219129003-f28d0c2b-9b53-4d09-a3e1-2f32782e0f45.PNG)
 
 
