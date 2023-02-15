@@ -1,6 +1,6 @@
 # Week 0 — Billing and Architecture
 
-## Required Tasks
+## <> Required Tasks
 
 ### Install AWs CLI
 
@@ -9,7 +9,7 @@ Unable to install using Gitpod, used local environment to install and confirmed 
 ![Capture](https://user-images.githubusercontent.com/124918783/219129003-f28d0c2b-9b53-4d09-a3e1-2f32782e0f45.PNG)
 
 
-## Cruddur Logical Diagram - Lucid Charts
+## <> Cruddur Logical Diagram - Lucid Charts
 
 ![Cruddur Logical Diagram](https://user-images.githubusercontent.com/124918783/219119750-8a035103-79b9-4076-aa68-7032117807e0.png)
 
