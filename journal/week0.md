@@ -2,11 +2,11 @@
 
 ## <> Required Tasks
 
-### Install AWs CLI
+### Install AWS CLI
 
 Unable to install using Gitpod, used local environment to install and confirmed that it is installed, screenshot below:
 
-I used following commands to install and confirm.
+I used following commands to install and confirm on local environment
 
 ```
 msiexec.exe /i https://awscli.amazonaws.com/AWSCLIV2.msi
@@ -14,8 +14,14 @@ msiexec.exe /i https://awscli.amazonaws.com/AWSCLIV2.msi
 aws --version
 
 ```
+ Also took following screenshot as a proof.
+ 
+ ![image](https://user-images.githubusercontent.com/124918783/219136497-12558027-76cf-456d-93c0-d605f6084f03.png)
 
-![Capture](https://user-images.githubusercontent.com/124918783/219129003-f28d0c2b-9b53-4d09-a3e1-2f32782e0f45.PNG)
+
+
+
+
 
 
 ## <> Cruddur Logical Diagram - Lucid Charts
