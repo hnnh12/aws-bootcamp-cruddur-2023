@@ -1,5 +1,13 @@
 # Week 0 — Billing and Architecture
 
+## Required Tasks
+
+### Install AWS CLI
+
+Unable to install AWS CLI using Gitpod as command for windows was not working. Used local environment to install it and confirmed in CMD that it is installed, screenshot below:
+
+
+
 
 ## Cruddur Logical Diagram - Lucid Charts
 
