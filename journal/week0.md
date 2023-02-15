@@ -3,6 +3,8 @@
 
 ## Cruddur Logical Diagram - Lucid Charts
 
+![Cruddur Logical Diagram](https://user-images.githubusercontent.com/124918783/219119750-8a035103-79b9-4076-aa68-7032117807e0.png)
+
 
 
 
