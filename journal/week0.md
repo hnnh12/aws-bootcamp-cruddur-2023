@@ -36,6 +36,14 @@ I created a budget for $1, kept the amount low as this is just testing and hence
 ![Capture2](https://user-images.githubusercontent.com/124918783/219139248-f4990c92-8006-4c68-97e7-bf41b176ffc6.PNG)
 
 
+#### >Cruddur Conceptual Diagram - Lucid Charts
+
+![Curddur Conceptual Diagram](https://user-images.githubusercontent.com/124918783/219705114-a982a1d7-b4f1-4b2b-9319-9ebf371bed5c.png)
+
+#### Link to Lucid Chart Conceptual Diagram
+
+https://lucid.app/lucidchart/515889ee-626b-4123-b845-f8d9c352ed17/edit?viewport_loc=-11%2C-11%2C2219%2C989%2CgZ7xYooGuVCI&invitationId=inv_ffd28d69-dad4-4099-86ba-e92bc00836de
+
 
 ####  >Cruddur Logical Diagram - Lucid Charts
 
@@ -44,4 +52,4 @@ I created a budget for $1, kept the amount low as this is just testing and hence
 
 
 
-#### Link to Lucid Chart Diagram: https://lucid.app/lucidchart/515889ee-626b-4123-b845-f8d9c352ed17/edit?invitationId=inv_ffd28d69-dad4-4099-86ba-e92bc00836de
+#### Link to Lucid Chart Logical Diagram: https://lucid.app/lucidchart/515889ee-626b-4123-b845-f8d9c352ed17/edit?invitationId=inv_ffd28d69-dad4-4099-86ba-e92bc00836de
